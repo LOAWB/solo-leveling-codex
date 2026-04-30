@@ -74,6 +74,13 @@ End-of-canon power placement. National-Level humans float between top of S and b
 | Lee Joohee | B-rank healer. Jinwoo's first-arc party member. PTSD-driven retirement. |
 | Hwang Dongsuk | B-rank antagonist (early arc). Tries to kill Jinwoo in the Demonic Castle Dungeon. |
 
+## Cameos / side characters (original to this codex, not Solo Leveling canon)
+
+| Character | Why |
+|-----------|-----|
+| Jared | A-rank rising to S-rank, Bond Hunter class. Stats scale with bonded crew. Holds a coastal city block during Monarchs War. See `characters/cameos/jared.md`. |
+| Justin | S-rank System Architect (hidden class). Builder-axis, not striker-axis. Infrastructure echoes outlast his personal presence. See `characters/cameos/justin.md`. |
+
 ## Special / Out-of-tier (Rulers and faction-tier)
 
 | Entity | Why |

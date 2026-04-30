@@ -23,6 +23,7 @@ Built for game-design reference. Source material: full anime story (Jeju Island 
 - **shadows/** — Jinwoo's army (Igris, Beru, Bellion, Tusk, Iron, Kaisel, Tank, Greed).
 - **rulers/** — overview file (the Rulers operate as a faction).
 - **magic-beasts/** — major non-Monarch threats (Kamish, Ant King).
+- **cameos/** — original side characters (Jared, Justin), not Solo Leveling canon. Slotted into the universe with kits that reflect their real-world archetypes.
 
 ## Per-character file structure
 
