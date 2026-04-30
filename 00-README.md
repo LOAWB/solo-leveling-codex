@@ -16,6 +16,7 @@ Together they cover the entire Solo Leveling universe end-to-end including the R
 - **02-tier-list.md** - every named character placed in their power tier with one-line justification.
 - **03-jinwoo-development-tracker.md** - Sung Jinwoo's progression timeline, level by level, with arc-by-arc strength jumps.
 - **04-dungeon-mechanics.md** - Gate types, dungeon classification, time pressure, loot economy, special variants (Double / Red Gate / Field-Type / Instant / System), Daily Quest, item registry. Game-design portable.
+- **05-bestiary.md** - all 47+ named Magic Beasts plus species-tier swarms, organized by rank and faction. Boss list, conversion paths (Arise mechanic), Monarch-army mapping, item drops.
 - **characters/** - individual files per character, grouped by role.
 
 ## Character categories
