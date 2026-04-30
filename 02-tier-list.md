@@ -111,6 +111,6 @@ End-of-canon power placement. National-Level humans float between top of S and b
 
 - **Rank is fixed for awakened humans**, except the Player (Jinwoo). Game design implication: most characters have static stats; the protagonist class is the ONLY one that levels.
 - **Authority items (Ruler gifts)** function as artifact-tier equipment that elevate one tier. National Level = S-rank + Ruler item.
-- **Class-uniqueness over raw stats** — Jinwoo's Necromancer is a kit-defining factor, not a stat boost. Beru's Speed + Execution > raw HP-and-damage Monarchs.
-- **Resurrection economy** — Jinwoo's Arise mechanic creates compound-interest scaling. Each defeated boss becomes a recurring asset. Game-design: this is a meta-progression layer, not an instance reward.
+- **Class-uniqueness over raw stats** - Jinwoo's Necromancer is a kit-defining factor, not a stat boost. Beru's Speed + Execution > raw HP-and-damage Monarchs.
+- **Resurrection economy** - Jinwoo's Arise mechanic creates compound-interest scaling. Each defeated boss becomes a recurring asset. Game-design: this is a meta-progression layer, not an instance reward.
 - **Faction war structure**: Monarchs vs Rulers vs Hunters, with two betrayal pivots (Ashborn from Rulers to Monarchs, then his power passing to Jinwoo from Monarchs to humans). Three-faction shape with double-defection.

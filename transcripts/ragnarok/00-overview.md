@@ -8,12 +8,12 @@ This transcript adds new lore beyond what the original codex covers, including n
 
 ## Chapters
 
-- **01-season-1.txt** — 121.9K words. Suho's awakening. Inheritance of Player class. Early Ragnarok arc setup. Roughly 11 hours of source material.
-- **02-season-2-parts-1-3.txt** — 27.1K words. Season 2 opening through middle.
-- **03-season-2-part-4.txt** — 5.1K words.
-- **04-season-2-part-5.txt** — 7.7K words.
-- **05-season-2-part-6.txt** — 7K words.
-- **06-season-2-part-7.txt** — 9.5K words. Season 2 finale.
+- **01-season-1.txt** - 121.9K words. Suho's awakening. Inheritance of Player class. Early Ragnarok arc setup. Roughly 11 hours of source material.
+- **02-season-2-parts-1-3.txt** - 27.1K words. Season 2 opening through middle.
+- **03-season-2-part-4.txt** - 5.1K words.
+- **04-season-2-part-5.txt** - 7.7K words.
+- **05-season-2-part-6.txt** - 7K words.
+- **06-season-2-part-7.txt** - 9.5K words. Season 2 finale.
 
 Total: ~178K words. Together with the awakening-through-jeju and post-jeju transcripts, the Solo Leveling universe corpus in this repo is ~405K words.
 

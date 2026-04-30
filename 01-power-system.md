@@ -22,9 +22,9 @@ Korea has roughly 10 S-rank hunters at peak. Globally maybe 50-60 S-ranks across
 
 Granted authority and power by the Rulers (most of them are Ruler vessels). Title earned through the legendary Kamish Raid. The original 5:
 
-1. **Thomas Andre** (US) — Goliath Guild Master, strongest until Jinwoo
-2. **Liu Zhigang** (China) — top mage-class output
-3. **Christopher Reed** (US) — second American National Level
+1. **Thomas Andre** (US) - Goliath Guild Master, strongest until Jinwoo
+2. **Liu Zhigang** (China) - top mage-class output
+3. **Christopher Reed** (US) - second American National Level
 4. **Siddharth Bachchan** (India)
 5. **Lennart Niermann** (Germany)
 
@@ -34,15 +34,15 @@ Sung Il-Hwan (Jinwoo's father) is also a vessel-class fighter near National Leve
 
 Ancient kings of monsters. Each commands an army of their kind. All but Ashborn fight against humanity in the Monarchs War.
 
-1. **Antares** — Monarch of Destruction, King of Berserk Dragons. Strongest. The final boss.
-2. **Ashborn** — Monarch of Shadows, King of the Dead. Originally a Ruler, betrayed and converted. Passes title to Jinwoo.
-3. **Baruka** (also called Arte) — Monarch of Frost, King of Snow Folk
-4. **Rakan** — Monarch of Beastly Fangs, King of Beasts
-5. **Tarnak** — Monarch of the Iron Body, King of Monstrous Humanoids
-6. **Legia** — Monarch of the Beginning, King of Giants
-7. **Querehsha** — Monarch of Plagues, Queen of Insects
-8. **Yogumunt** — Monarch of Transfiguration, King of Demonic Spectres
-9. **Baran** — Monarch of White Flames, King of Demons (lightning-caster, also called Monarch of Shining Lights in some translations)
+1. **Antares** - Monarch of Destruction, King of Berserk Dragons. Strongest. The final boss.
+2. **Ashborn** - Monarch of Shadows, King of the Dead. Originally a Ruler, betrayed and converted. Passes title to Jinwoo.
+3. **Baruka** (also called Arte) - Monarch of Frost, King of Snow Folk
+4. **Rakan** - Monarch of Beastly Fangs, King of Beasts
+5. **Tarnak** - Monarch of the Iron Body, King of Monstrous Humanoids
+6. **Legia** - Monarch of the Beginning, King of Giants
+7. **Querehsha** - Monarch of Plagues, Queen of Insects
+8. **Yogumunt** - Monarch of Transfiguration, King of Demonic Spectres
+9. **Baran** - Monarch of White Flames, King of Demons (lightning-caster, also called Monarch of Shining Lights in some translations)
 
 Power gap: a single Monarch can level a city. Three Monarchs together can fight Jinwoo to a draw before his full awakening. Antares alone surpasses any other Monarch.
 
@@ -58,8 +58,8 @@ Cup of Reincarnation is the Rulers' final move: rewinds time 10 years, undoing t
 
 Outside the Monarch hierarchy but threat-level relevant for game design:
 
-- **Kamish** — Dragon, the only Magic Beast to threaten extinction-level damage. Killed by the original 5 National Level Hunters in a Raid that defined the National Level title.
-- **Ant King** (pre-Beru) — Jeju Island boss. Killed by Jinwoo, then re-summoned as Beru.
+- **Kamish** - Dragon, the only Magic Beast to threaten extinction-level damage. Killed by the original 5 National Level Hunters in a Raid that defined the National Level title.
+- **Ant King** (pre-Beru) - Jeju Island boss. Killed by Jinwoo, then re-summoned as Beru.
 
 ## Shadow Army (Jinwoo-specific)
 
@@ -68,8 +68,8 @@ Shadow Monarch authority. Jinwoo extracts shadows from defeated enemies and resu
 Tier within shadows:
 - Soldier: basic infantry, hundreds-to-thousands
 - Knight: elite line, scaling from named hunters
-- General: Igris, Beru, Tusk, Iron — solo S-rank takedowns
-- Marshal: Bellion, Beru post-evolution, Igris post-Knight Killer awakening — multi-S-rank takedowns
+- General: Igris, Beru, Tusk, Iron - solo S-rank takedowns
+- Marshal: Bellion, Beru post-evolution, Igris post-Knight Killer awakening - multi-S-rank takedowns
 - Beast/Special: Tank (wolf), Kaisel (wyvern), Greed (former knight commander)
 
 ## Power gap visualization

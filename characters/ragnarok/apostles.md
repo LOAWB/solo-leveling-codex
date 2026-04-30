@@ -12,7 +12,7 @@ They are loyal to fanaticism. They believe that all creations must be subservien
 
 ## Known Apostles
 
-- **Tiel** — first named Apostle. Operates under the alias Park Dojin. Three of five fragments reunified by mid-Ragnarok. Primary villain of early Ragnarok arcs.
+- **Tiel** - first named Apostle. Operates under the alias Park Dojin. Three of five fragments reunified by mid-Ragnarok. Primary villain of early Ragnarok arcs.
 - (Multiple others implied; not all named yet in the manhwa/novel as of latest canon.)
 
 ## Common abilities
