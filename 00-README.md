@@ -19,6 +19,7 @@ Together they cover the entire Solo Leveling universe end-to-end including the R
 - **05-bestiary.md** - all 47+ named Magic Beasts plus species-tier swarms, organized by rank and faction. Boss list, conversion paths (Arise mechanic), Monarch-army mapping, item drops.
 - **06-items-and-drops.md** - every notable canonical item: currency tiers, Rune Stones, top-tier artifacts (Black Heart, Kamish's Wrath, Cup of Reincarnation), mid-tier weapons, race-specific drops, System Shop items, gear progression. Game-design item economy.
 - **07-existing-games-research.md** - Solo Leveling: ARISE complete system breakdown (80+ weapons, 350 artifacts, 33 blessing stones, runes, currencies, enhancement system). Comparable game references (Genshin, Honkai Star Rail, Diablo, Path of Exile, Lost Ark, Black Desert, Lineage W). Concrete recommendations for your game's economy.
+- **08-game-concept-grafts.md** - how hard each game mechanic is to graft onto Solo Leveling lore. 15+ game families rated Native / Easy / Medium / Hard / Conflict. Specific recipes per concept. Hybrid blueprint for which mechanics to combine.
 - **characters/** - individual files per character, grouped by role.
 
 ## Character categories
