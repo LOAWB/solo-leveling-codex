@@ -95,7 +95,9 @@ End-of-canon power placement. National-Level humans float between top of S and b
 | Character | Why |
 |-----------|-----|
 | Jared | A-rank rising to S-rank, Bond Hunter class. Stats scale with bonded crew. Holds a coastal city block during Monarchs War. See `characters/cameos/jared.md`. |
+| Severin (the Bond-Breaker) | A-rank rising to S-rank, Bond-Severer class. Hard counter to Jared: cannot be read by Resonance Sense, severs bonded crews via Wedge mechanic. See `characters/cameos/severin-the-bondbreaker.md`. |
 | Justin | S-rank System Architect (hidden class). Builder-axis, not striker-axis. Infrastructure echoes outlast his personal presence. See `characters/cameos/justin.md`. |
+| Cipher (the Unbuilder) | S-rank Counter-Architect class. Same class as Justin, opposite alignment. Decompose, Null Field, System Sight Mirror. Justin's only true peer because he understands the class from the inside. See `characters/cameos/cipher-the-unbuilder.md`. |
 
 ## Special / Out-of-tier (Rulers and faction-tier)
 
