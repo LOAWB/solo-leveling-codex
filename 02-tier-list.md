@@ -74,6 +74,22 @@ End-of-canon power placement. National-Level humans float between top of S and b
 | Lee Joohee | B-rank healer. Jinwoo's first-arc party member. PTSD-driven retirement. |
 | Hwang Dongsuk | B-rank antagonist (early arc). Tries to kill Jinwoo in the Demonic Castle Dungeon. |
 
+## Ragnarok era (post-canon sequel, new threats and characters)
+
+| Character | Why |
+|-----------|-----|
+| Itarim faction | Cosmic-tier above Monarchs and Rulers. Apex antagonist faction of the sequel. New universe layer revealed. |
+| Apostles (Tiel and others) | Itarim servants. At full power equal to Monarchs; current canon they operate at fragment-strength (S+ to mid-Monarch tier). |
+| Sung Suho (high-school age) | Above S-Rank by adolescence. Only Jinwoo can solo him. Player-class echo + Shadow inheritance + Antares fragment. See `characters/ragnarok/sung-suho.md`. |
+| Tiel (Apostle) | Cosmic-tier infiltrator. Three of five fragments restored. Posed as S-rank "Park Dojin" in Fiend Guild. Brainwashing via Stardust drug. |
+| Brocky | Rakan's servant, brainwashed into Hyena Guild leader. High S-tier as Magic Beast. Killed by Suho, revived as shadow. |
+| Arsha | Queen of Bees, Querehsha's servant. S-tier Magic Beast in human disguise. Stardust trafficker. |
+| Lim Tae-Gyu (Ragnarok awakening) | New Korean S-Rank, Fiend Guild Master. Background character in original canon, major figure in sequel. |
+| Lee Minsung | A-Rank Vice-Master of Fiend Guild. Tiel's primary pawn. Becomes shadow soldier under Suho post-defeat. |
+| Gray | Last living descendant of Rakan, latent Monarch-tier potential. Currently weak from trauma. |
+| Esil Radiru | Cross-canon healer, originally a Cartenon Temple NPC, recurring in Ragnarok. Support tier. |
+| Fiend Guild / Hyena Guild | Faction-tier presences in the Ragnarok hunter ecosystem. |
+
 ## Cameos / side characters (original to this codex, not Solo Leveling canon)
 
 | Character | Why |

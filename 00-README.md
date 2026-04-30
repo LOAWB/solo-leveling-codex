@@ -30,6 +30,7 @@ Together they cover the entire Solo Leveling universe end-to-end including the R
 - **rulers/** — overview file (the Rulers operate as a faction).
 - **magic-beasts/** — major non-Monarch threats (Kamish, Ant King).
 - **cameos/** — original side characters (Jared, Justin), not Solo Leveling canon. Slotted into the universe with kits that reflect their real-world archetypes.
+- **ragnarok/** — Ragnarok-era sequel characters (Suho, Tiel, Brocky, Arsha, the Itarim faction, Apostles, Stardust mechanics, Fiend / Hyena Guilds, Lee Minsung, Lim Tae-Gyu in his new role). Distinct from `family/sung-suho.md` which has the original-canon shorter entry.
 
 ## Per-character file structure
 

@@ -33,3 +33,7 @@ When dimensional invaders attempt to enter Earth via residual Gate scars, Suho c
 
 - Generational succession pattern: parent's class diluted to child, parent functions as silent mentor/protector.
 - New-game-plus shape: world reset but inheritance preserved. The protagonist's child gets the codex, not raw stats.
+
+## See also
+
+For the full Ragnarok-era Suho entry with abilities, development arc, and game-design hooks specific to the sequel, see `characters/ragnarok/sung-suho.md`. This file is the brief original-canon entry; that file is the extended Ragnarok-protagonist entry.
