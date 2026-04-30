@@ -18,6 +18,7 @@ Together they cover the entire Solo Leveling universe end-to-end including the R
 - **04-dungeon-mechanics.md** - Gate types, dungeon classification, time pressure, loot economy, special variants (Double / Red Gate / Field-Type / Instant / System), Daily Quest, item registry. Game-design portable.
 - **05-bestiary.md** - all 47+ named Magic Beasts plus species-tier swarms, organized by rank and faction. Boss list, conversion paths (Arise mechanic), Monarch-army mapping, item drops.
 - **06-items-and-drops.md** - every notable canonical item: currency tiers, Rune Stones, top-tier artifacts (Black Heart, Kamish's Wrath, Cup of Reincarnation), mid-tier weapons, race-specific drops, System Shop items, gear progression. Game-design item economy.
+- **07-existing-games-research.md** - Solo Leveling: ARISE complete system breakdown (80+ weapons, 350 artifacts, 33 blessing stones, runes, currencies, enhancement system). Comparable game references (Genshin, Honkai Star Rail, Diablo, Path of Exile, Lost Ark, Black Desert, Lineage W). Concrete recommendations for your game's economy.
 - **characters/** - individual files per character, grouped by role.
 
 ## Character categories
