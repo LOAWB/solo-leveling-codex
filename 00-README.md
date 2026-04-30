@@ -2,7 +2,12 @@
 
 Built for game-design reference. Source material: full anime story (Jeju Island onward) + manhwa canon + light novel where they diverge. All character entries link to the official Fandom wiki page for canonical portraits and full lore.
 
-**Companion transcript** (full 9h28m post-Jeju Solo Leveling story video, split by arc): https://gist.github.com/LOAWB/519a8ebcd8c7dd85e61da40226ea8225
+**Companion transcripts** (full story split by arc, both videos covered):
+
+- `transcripts/awakening-through-jeju/` — pre-System through Jeju Island (10h8m source).
+- `transcripts/post-jeju/` — Ahjin Guild Arc through Cup of Reincarnation epilogue (9h28m source).
+
+Together they cover the entire canon Solo Leveling story end-to-end (~227K words clean).
 
 ## How this is organized
 
