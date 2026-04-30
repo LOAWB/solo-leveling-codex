@@ -2,12 +2,13 @@
 
 Built for game-design reference. Source material: full anime story (Jeju Island onward) + manhwa canon + light novel where they diverge. All character entries link to the official Fandom wiki page for canonical portraits and full lore.
 
-**Companion transcripts** (full story split by arc, both videos covered):
+**Companion transcripts** (full universe split by arc, all source videos covered):
 
-- `transcripts/awakening-through-jeju/` — pre-System through Jeju Island (10h8m source).
-- `transcripts/post-jeju/` — Ahjin Guild Arc through Cup of Reincarnation epilogue (9h28m source).
+- `transcripts/awakening-through-jeju/` — pre-System through Jeju Island (10h8m source, 122K words).
+- `transcripts/post-jeju/` — Ahjin Guild Arc through Cup of Reincarnation epilogue (9h28m source, 105K words).
+- `transcripts/ragnarok/` — post-canon sequel following Sung Suho (16h27m source, 178K words).
 
-Together they cover the entire canon Solo Leveling story end-to-end (~227K words clean).
+Together they cover the entire Solo Leveling universe end-to-end including the Ragnarok continuation (~405K words clean text). The character codex was built primarily on the original canon; Ragnarok-era characters are not yet expanded but the transcript supports a future codex pass.
 
 ## How this is organized
 
