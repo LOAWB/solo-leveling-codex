@@ -2,6 +2,8 @@
 
 Built for game-design reference. Source material: full anime story (Jeju Island onward) + manhwa canon + light novel where they diverge. All character entries link to the official Fandom wiki page for canonical portraits and full lore.
 
+**Companion transcript** (full 9h28m post-Jeju Solo Leveling story video, split by arc): https://gist.github.com/LOAWB/519a8ebcd8c7dd85e61da40226ea8225
+
 ## How this is organized
 
 - **01-power-system.md** — the rank hierarchy from E-Rank to Monarch to Ruler, with thresholds.
