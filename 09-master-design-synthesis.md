@@ -28,22 +28,45 @@ This asymmetry is not a balance problem. It is the design. Every mechanic in thi
 
 ## Core gameplay loop (moment-to-moment)
 
-You stand at a Gate. You enter. Inside is a dungeon: monster zones, environmental hazards, a boss room. You bring your party (three Hunters plus your shadow army). You fight with stamina-based combat: light attacks, heavy attacks, dodge, parry, block. Stamina regenerates between strikes; running out leaves you vulnerable. You break boss body parts to trigger phase shifts. You swap between your three Hunters mid-fight, leaving residual buffs as you tag. You command your shadows through the System UI. You kill the boss. You attempt Arise to extract its shadow into your army. You loot. You exit. You are stronger.
+You stand at a Gate. You enter. Inside is a dungeon: monster zones, environmental hazards, a boss room. You bring your party of four characters (Player class plus three bonded Hunters). Combat is turn-based with action-tier polish: each turn the active character chooses an attack, skill, item, or swap. Element reactions trigger between turns. Real-time character swap consumes a turn but enables tactical pivots. Multi-phase bosses break across body-part triggers. Animated cinematic ultimates reward kit mastery. You command your shadow army through the System UI as a separate input layer. You kill the boss. You attempt Arise to extract its shadow into your army. You loot. You exit. You are stronger.
 
-You go to the next Gate. The loop is satisfying at hour zero because the combat itself has weight. The loop scales because every kill compounds: shadows grow, stats grow, items grow, bonds grow, the world remembers you, the System rewards consistency, and surviving Magic Beasts go into hiding to plan against you.
+You go to the next Gate. The loop is satisfying at hour zero because each turn carries weight. The loop scales because every kill compounds: shadows grow, stats grow, items grow, bonds grow, the world remembers you, the System rewards consistency, surviving Magic Beasts go into hiding to plan against you, and your gacha collection deepens.
 
 ---
 
 ## Combat system
 
-### Stance and rhythm
-Stamina-based action combat. Every attack costs stamina. Every dodge costs stamina. Stamina regenerates between strikes. Out-of-stamina = vulnerable. No infinite combos. Spacing and timing matter.
+### Format
+Turn-based combat with action-tier polish. The base format is the gacha-RPG turn-based pattern (Memoria-Freeze-style portrait + flash + damage numbers visualization), with depth additions that elevate it beyond the standard genre.
 
-### Skills per Hunter
-Each Hunter has a basic attack, two skills, and an ultimate, plus a passive ability. Skills have cooldowns and consume MP. Ultimates require building a meter through combat.
+### Turn structure
+- Team of four (Player class plus three bonded Hunters) deploys to combat.
+- One character is active at a time, others on bench.
+- On each turn, the active character chooses one of: basic attack, skill 1, skill 2, ultimate (if meter ready), use item, or swap to another character.
+- Swap consumes a turn (Pokemon rule).
+- Real-time skill timing windows for active dodge / counter / combo extend during enemy turns (action-tier polish on the turn-based base).
 
-### Tag-swap
-You bring three Hunters plus Jinwoo on most missions. You play one at a time. Tag-swap is fluid and instant. The character swapping out leaves a residual aura on the field for several seconds (damage boost, healing zone, stagger build, depending on Hunter). Tag-swap synergy is a core combat depth lever.
+### Skills per character
+Each character has a basic attack, two skills, and an ultimate, plus a passive ability. Skills have cooldowns and MP costs. Ultimates require building a Burst meter through combat actions.
+
+### Element reactions
+Solo Leveling's elements: Fire, Ice, Lightning, Light, Dark, Beast, Insect, Demon, Holy. When two elements interact on a target (e.g., Fire applied after Ice was applied last turn), reactions trigger:
+- Fire on Ice: Melt (massive single-target burst)
+- Lightning on Water/Ice: Electrocute (DoT)
+- Dark on Light or Light on Dark: Annihilation (raw damage)
+- Holy on Demon: Cleanse (purifies brainwashing, removes Stardust)
+- Beast on Insect: Ravage (party damage)
+- Light on Beast: Hunt (mobility burst)
+
+Building team comps that trigger reactions is where tactical depth shines.
+
+### Combat visualization (Memoria-Freeze-tier polish)
+Each attack zooms camera on attacker. Character portrait fills frame. Animated background flash color-coded by element and skill type. Slash lines or strike effects layered on portrait. Damage numbers float up. Portrait shakes for impact frames. Ultimates trigger full-screen card-flip animation with character's signature cinematic art and dynamic background sweep.
+
+This visualization style is asset-efficient (no full battle-sprite animation per skill) while feeling premium. The animation polish goes into the FLASH and TRANSITION moments, not into per-frame sprite animation.
+
+### Shadow Army deployment (Player only)
+Jinwoo has a separate input for shadow command. Shadows are summoned and dismissed via the System UI. They fight autonomously under directive (assault, hold, defend, withdraw). Up to ten shadows on the field at once depending on Player level. Shadows can level independently through combat experience. Shadow turns happen between Player party turns, expanding combat tempo.
 
 ### Element reactions
 Solo Leveling's elements: Fire, Ice, Lightning, Light, Dark, Beast, Insect, Demon, Holy. When two elements interact on a target, reactions trigger:
@@ -67,7 +90,7 @@ Magic Beasts have three to six breakable parts: head, claws, wings, tail, armor 
 - Disables specific attacks (break Antares' wings, no Dive Phase)
 
 ### Boss fight structure
-Multi-phase encounters. Phase shifts triggered by HP thresholds, body-part breaks, or environmental conditions. Each phase introduces new mechanics. Solo encounters for Daily Quest scope; four-Hunter raids for standard A-rank Gates; eight-to-twenty-five Hunter coalitions for S-rank story raids.
+Multi-phase encounters. Phase shifts triggered by HP thresholds, body-part breaks, or environmental conditions. Each phase introduces new mechanics. Solo encounters for Daily Quest scope; standard four-character team for A-rank Gates; eight-to-twenty-five hunter coalitions abstracted into four-team-of-four "wing" deployments for S-rank story raids (each wing controlled by a different player in co-op, or auto-driven in solo).
 
 ### Stagger / Break gauge
 Every enemy has a Break gauge alongside HP. Filling Break triggers a stagger window where the enemy is vulnerable to amplified damage and execution finishers (the moment Beru dismembers an opponent in canon). Specific weapons and skills have Break-affinity. Specific party comps optimize for Break.
@@ -409,10 +432,10 @@ Story raids re-runnable on Mythic difficulty with new mechanics, cosmic affixes,
 
 ---
 
-## Multiplayer / async social (light touch)
+## Multiplayer
 
-### Co-op raids (optional)
-Some S-rank Gates support 4-player co-op. Each player brings their own Hunter team. Loot per-player.
+### Co-op raids
+S-rank Gates support 4-player co-op. Each player brings their own four-character team. Loot per-player.
 
 ### Async Resonance markers
 Players can leave markers in dungeons (notes, warnings, hints) visible to other players. Limited capacity per player. Mimics canon's hunter-association field reports.
@@ -423,33 +446,117 @@ A particularly powerful Survivor from your world can be shared as a "rival contr
 ### Guild halls (cosmetic)
 Friends can visit your Ahjin Guild HQ to see your shadow army roster, your trophies, your Hunter relationships.
 
+### Ranked PvP arena
+
+Player versus player combat in 4v4 team battles using the same turn-based combat system as PvE.
+
+**Format:**
+- 4 characters per team (Player plus three Hunters; Player class is mandatory in the lineup)
+- Turn-based with skill timing windows preserved from PvE
+- Best-of-three set per match
+- Rotating banned-character pool to prevent meta stagnation
+- Limited / Hidden tier characters (Jared, Justin) restricted to high-rank tournament queues only
+
+**Ranked tier ladder (Solo-Leveling-themed):**
+- E-rank (entry tier)
+- D-rank
+- C-rank
+- B-rank
+- A-rank
+- S-rank
+- National Level (top-tier)
+- Monarch (elite tier, top 0.1%)
+- Ruler (cosmic tier, single-digit players globally)
+
+**Seasonal structure:**
+- Each season runs 8 weeks
+- Players reset to S-rank floor at season start (no full reset; preserves prestige)
+- Seasonal rewards: cosmetics, currency, exclusive Limited Banner pulls
+- Top-100 ranked players publicly displayed
+- Seasonal title rewards (e.g., "Frost Monarch S2", "Shadow Sovereign S5")
+
+**Matchmaking:**
+- Power-tier match (account total power within tolerance)
+- Skill-tier match (ranked rating within tolerance)
+- Hidden-character handicap (Limited tier characters reduced effectiveness in lower-rank queues to prevent pay-to-win pressure)
+
+**Anti-toxicity:**
+- No voice or text chat in PvP queues (preset emote pool only)
+- Surrender option after turn 5 to prevent griefing
+- Reporting system for suspected botting
+
+### Casual PvP arena
+Unranked queue available with no tier movement. Practice ground or daily-content fulfillment.
+
+### Tournaments
+Monthly seasonal tournaments at Monarch+ tier. Spectator mode available. Real-money prize pools at Ruler tier (sponsorship-funded, not from player wallets).
+
 ### What we explicitly skip
-- PvP arenas (off-tone)
-- Open-world server (single-player core; async only)
+- Open-world server (single-player core for story; instanced multiplayer for PvP and co-op)
 - Trading / auction houses (would create inflation pressure and undermine itemization)
+- Pay-to-rank (no purchasing rank progression directly)
 
 ---
 
 ## Monetization
 
-### Core game: premium
-Full main story, all canon Hunters, all crafting, all systems. No paywall in the gameplay loop.
+### Hybrid model: free-to-play with gacha + premium expansions
+
+The game is free to download and play through the main story. Gacha summon mechanics provide character acquisition. Premium expansions ship as paid content drops. Cosmetics are purchasable optional polish.
+
+### Gacha summon mechanics
+
+**Currency:**
+- **Mana Stones** (free, earned through play) - basic summon currency
+- **Gems** (premium, purchasable or earned) - premium summon currency
+- **Summon Tickets** - guaranteed pulls, awarded through events
+
+**Banner types:**
+- **Standard banner:** rotates featured SSR at 1.5% rate; pity guarantee at 90 pulls
+- **Limited banner:** featured SSR at 2% rate; pity guarantee at 80 pulls; exclusive limited characters
+- **Hidden banner (Jared, Justin):** appears twice yearly at March and September anniversaries; both rare characters share this banner at 0.5% each; NOT included in pity guarantee
+- **Free starter banner:** new players guaranteed one SSR within 10 pulls (one-time)
+
+**Duplicate progression (Awakening rank):**
+- First pull of a character: base form unlocks
+- Each subsequent duplicate pull increases Awakening rank from 0 to 6
+- Awakening ranks unlock new abilities, stat bonuses, alternative passives
+- Some characters (Hidden tier - Jared, Justin) can rarely reach max Awakening due to pull rate
+
+**Pity systems:**
+- Standard banner: 90 pulls without SSR = guaranteed SSR
+- Limited banner: 80 pulls without featured SSR = guaranteed featured SSR
+- Hidden banner: no pity guarantee (preserves rarity)
+
+### Premium expansions
+
+Major content drops as paid expansions:
+- Ragnarok arc expansion ($20-30)
+- Post-canon Suho campaign expansion ($20-30)
+- Limited story arcs (3-5 hours each, $5-10 each)
+
+Expansions add full new story arcs, characters, dungeons, and game modes.
 
 ### Optional cosmetics
-Outfits, weapon skins, shadow army color palettes, Ahjin Guild decoration. Pure cosmetic, no power impact.
 
-### Expansion model
-Major content (Ragnarok, post-canon Suho campaign) shipped as expansions. Players who buy stay engaged for years.
+Outfits, weapon skins, shadow army color palettes, Ahjin Guild HQ decoration, summon animation effects. Pure cosmetic, no power impact. Available for direct purchase (no gacha).
+
+### Battle Pass
+
+Each season (matched to PvP season cycle) has a free pass with rewards and a premium pass with extra rewards. Premium pass ~$10. Rewards include currency, summon tickets, cosmetics, and exclusive items.
 
 ### What we explicitly skip
-- Gacha pulls
-- Pay-to-win artifact rolls
-- Loot boxes
-- Energy systems (no daily-cap on play)
-- Battle passes (no manufactured FOMO)
+- Pay-to-rank (no purchasing rank progression directly)
+- Stamina-cap on play time (energy systems that artificially gate engagement)
+- Pure pay-to-win mechanics (all power-tier currency obtainable through play, just slower)
+- Manipulative scarcity tactics (timed daily deals at predatory price points)
 
-### Why
-The Solo Leveling story is a power fantasy about earning your strength. Selling shortcuts undercuts the thesis.
+### Why this model
+
+The Solo Leveling theme is a power fantasy about earning your strength. The gacha pull is reframed as "summoning legendary hunters from history through your System Shop" - lore-justified rather than crass. Pay-to-win is mitigated by:
+- Ranked PvP has hidden-character handicap in low-rank queues
+- All non-Hidden-tier characters acquirable through play in reasonable timeframes (~3 months for any specific character)
+- Expansions are content-tier purchases, not progression-skipping ones
 
 ---
 
@@ -474,28 +581,31 @@ Korean voice cast as primary (matches the anime), English dub localization. Anim
 
 ## What this game is
 
-- The Solo Leveling lore translated into the game it has always implied.
-- Asymmetric protagonist as the foundational design choice.
-- Stamina-based action combat with multi-phase boss design and body-part-break mechanics.
-- Catch and evolve and party-build via canon's Arise mechanic.
-- Tier-stratified itemization with currency-as-crafting depth.
-- Eight-slot artifact gear with set bonuses.
+- The Solo Leveling lore translated into a free-to-play gacha RPG with premium polish and depth that elevates it beyond the standard format.
+- Asymmetric protagonist as the foundational design choice (Player class is mechanically distinct from all other Hunters).
+- Turn-based combat with action-tier polish, Memoria-Freeze-style visualization (portrait + flash + numbers) plus element reactions, real-time skill timing, multi-phase boss design, and body-part-break mechanics.
+- Four-character team with swap-as-turn mechanic, plus shadow army as separate input layer for Player.
+- Gacha summon with duplicate-Awakening progression, Hidden-tier rare characters (Jared and Justin) at <1% pull rate.
+- Catch and evolve and party-build via canon's Arise mechanic for shadow army.
+- Tier-stratified itemization with set bonuses on 8-slot artifact gear.
 - Bond depth with 10-rank social progression per Hunter.
-- Persistent-world Survivor system as the secret weapon for world-feel.
+- Persistent-world Survivor system providing recurring threat continuity.
 - Story-faithful drops with emotional weight (item-as-relationship, story-locked artifacts, generational succession).
-- Single-player core with light async social texture.
-- Premium monetization with cosmetic-only optional purchases.
+- Ranked PvP arena (4v4 team turn-based) with seasonal ladder and tournaments.
+- Co-op raids on S-rank Gates.
+- Hybrid monetization: free-to-play core, gacha for character acquisition, premium expansions for major content drops, cosmetic-only direct purchases.
 
 ---
 
 ## What this game is not
 
-- Not gacha. No pulls, no banners, no FOMO.
-- Not an MMO. Single-player core.
-- Not pay-to-win. Earned power, not bought power.
-- Not turn-based. Action combat is non-negotiable for this IP.
+- Not pay-to-rank. PvP rank earned through play, not purchased.
+- Not pay-to-win in PvP. Hidden-tier characters get handicaps in lower-rank queues.
+- Not energy-gated. No stamina caps on play time.
+- Not full-MMO. Story is single-player; multiplayer is instanced (co-op, PvP).
 - Not derivative. Every system is justified by canon hooks.
 - Not generic. Every system is asymmetric protagonist plus canon-faithful.
+- Not action ARPG. The combat is turn-based with action-polish, not real-time stamina combat. (This is a design decision specific to this build for asset-efficiency and gacha-genre alignment; an action-ARPG variant could be considered for a sequel or alternate version.)
 
 ---
 
