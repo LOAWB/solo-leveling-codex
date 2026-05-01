@@ -27,6 +27,7 @@ Together they cover the entire Solo Leveling universe end-to-end including the R
 - **11-build-team-capabilities.md** - the qualification bar for Pory and Jr. Every skill needed itemized with a checklist. $200 budget allocation across Aseprite, Midjourney, Suno, ElevenLabs, indie commission reserve. Phase ordering for 12-14 week build.
 - **12-toolchain-and-kickoff.md** - persistent environment reference for Pory and Jr. Toolchain inventory, install paths, kickoff prompts to paste at session start, weekly cadence, inter-agent collaboration protocol via codex + project repo + asset master list.
 - **13-handoff-to-jr-and-pory.md** - HANDOFF DOC. The entry point for Jr and Pory inheriting this codex. Audit sequence, locked decisions, expected output, kickoff trigger.
+- **reference-images/** - 300 image references across 30 characters with Pory-ready prompt seeds. Curated from canon Fandom Gallery sources, organized for art generation pipeline.
 - **characters/** - individual files per character, grouped by role.
 
 ## Character categories
