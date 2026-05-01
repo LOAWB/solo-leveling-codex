@@ -10,6 +10,23 @@ This document supersedes individual recommendation files. Where they differ, thi
 
 You are not the strongest Hunter. You are the only Hunter who can become anything. The world has Gates, ranks, raids, and a strict hierarchy that says your power is fixed at awakening. The System on your screen is the System everyone whispers about, the one that broke Sung Jinwoo. It is broken for you too. The game is the loop of becoming: each Gate cleared rewrites your potential, each Magic Beast defeated joins your shadow army, each bonded ally rewrites the math of every fight. You start as the world's weakest. You end as the universe's apex. The space between is the game.
 
+## The quality bar
+
+This game must be the BEST mobile English-language Solo Leveling gacha RPG ever made. Not good enough. Not competitive. Best.
+
+That bar shapes every decision:
+- Combat feel must out-polish the established mobile gacha format
+- Visualization must hit Memoria-Freeze-tier polish at minimum, with extension into element-reaction and combo-chain depth that the genre standard doesn't reach
+- Story content must be canon-faithful and emotionally weighted - not generic mission flavor
+- The 100-floor Demon Castle must feel like a memorable journey, not a grind tower
+- PvP must be balanced and tactically deep, not pay-to-win
+- Art direction must be cohesive and manhwa-faithful, not generic-anime
+- UI must be ultra-responsive on mobile, no menu lag, instant transitions
+- Onboarding must hook the player in the first 10 minutes
+- Audio must score the dramatic beats, not just play in the background
+
+This is the binding ambition. Every implementation decision is judged against it: does this make us the best, or are we settling? When in doubt, raise the bar.
+
 ---
 
 ## The single thesis: asymmetric protagonist
