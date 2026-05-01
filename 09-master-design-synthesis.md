@@ -569,7 +569,11 @@ The Solo Leveling theme is a power fantasy about earning your strength. The gach
 Third-person, over-shoulder. Combat zoom-out for situational awareness. Cinematic camera for boss intros and phase shifts.
 
 ### Performance / scope
-Target current-gen consoles plus PC.
+Mobile only (iOS + Android), English only. No PC, no console, no localization branches. Portrait orientation primary, landscape optional.
+
+This scope decision is final. Rationale: case-study deliverable plus personal-family-use scope does not need cross-platform reach. Mobile-only English-only saves 15-20% of build time otherwise spent on cross-platform polish, localization architecture, multi-aspect-ratio UI scaling, and platform-specific input branching.
+
+Target devices: modern iPhones and Android flagships (last 3 generations). Resolution baseline 1080x2400 portrait. Texture sizes capped for mobile GPU. Frame rate target 60fps on flagship, 30fps minimum on entry-level last-3-gen devices.
 
 ### Music
 Orchestral score with Korean instrumentation as flavor (gayageum on bond moments, taepyeongso on Korean raids). Heavy electronic undercurrent on Apostle and Itarim content (cosmic-tier feels alien). Anime-OST inspiration for the action sequences.
