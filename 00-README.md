@@ -22,6 +22,7 @@ Together they cover the entire Solo Leveling universe end-to-end including the R
 - **08-game-concept-grafts.md** - how hard each game mechanic is to graft onto Solo Leveling lore. 15+ game families rated Native / Easy / Medium / Hard / Conflict. Specific recipes per concept. Hybrid blueprint for which mechanics to combine.
 - **09-master-design-synthesis.md** - the unified design contract. Every system grafted, every mechanic chosen, every judgment call made. Not code, the design. Single source of truth that supersedes individual recommendation files.
 - **10-art-bible.md** - every visual asset spec'd with Pory-ready prompt templates. Portraits (1024x1024), battle sprites (Pokemon Black/White animated style), overworld sprites (Pokemon DS scale), tilesets per canon dungeon, UI elements, VFX, title screen. Workflow split: Pory writes prompts, Jared renders, Jr implements.
+- **11-build-team-capabilities.md** - the qualification bar for Pory and Jr. Every skill needed itemized with a checklist. $200 budget allocation across Aseprite, Midjourney, Suno, ElevenLabs, indie commission reserve. Phase ordering for 12-14 week build.
 - **characters/** - individual files per character, grouped by role.
 
 ## Character categories
