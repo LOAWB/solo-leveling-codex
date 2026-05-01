@@ -580,10 +580,10 @@ The Solo Leveling theme is a power fantasy about earning your strength. The gach
 ## Visual / audio direction
 
 ### Art style
-3D action-RPG. Stylized but not cartoony. Character designs faithful to the manhwa. Magic Beasts faithful to canon visuals. Shadow soldiers visually distinct (purple aura, ethereal edges).
+2D pixel-art for in-game overworld and battle sprites (Pokemon Black/White scale and animation polish). Anime-grade portraits for character collection screens, cutscenes, and combat ultimate cinematics (manhwa-faithful Redice Studio aesthetic). Tilesets per canon dungeon with distinct biomes. Magic Beasts faithful to canon visuals. Shadow soldiers visually distinct via purple aura and smoky-edge details.
 
 ### Camera
-Third-person, over-shoulder. Combat zoom-out for situational awareness. Cinematic camera for boss intros and phase shifts.
+Top-down or near-top-down for overworld navigation (Pokemon DS perspective). Combat camera zooms onto active character with portrait + flash + damage-number overlay (Memoria-Freeze visualization). Cinematic full-screen camera sweeps for boss intros, phase shifts, and ultimate animations.
 
 ### Performance / scope
 Mobile only (iOS + Android), English only. No PC, no console, no localization branches. Portrait orientation primary, landscape optional.
@@ -593,7 +593,7 @@ This scope decision is final. Rationale: case-study deliverable plus personal-fa
 Target devices: modern iPhones and Android flagships (last 3 generations). Resolution baseline 1080x2400 portrait. Texture sizes capped for mobile GPU. Frame rate target 60fps on flagship, 30fps minimum on entry-level last-3-gen devices.
 
 ### Music
-Orchestral score with Korean instrumentation as flavor (gayageum on bond moments, taepyeongso on Korean raids). Heavy electronic undercurrent on Apostle and Itarim content (cosmic-tier feels alien). Anime-OST inspiration for the action sequences.
+Orchestral score with Korean instrumentation as flavor (gayageum on bond moments, taepyeongso on Korean raids). Heavy electronic undercurrent on Apostle and Itarim content (cosmic-tier feels alien). Anime-OST inspiration for combat sequences and boss encounter music. Per-zone music variations in Demon Castle (Outer Pits cold ambient, Iron Citadel dramatic gothic, Sky Halls rising orchestral, Throne Spires apocalyptic).
 
 ### Voice acting
 Korean voice cast as primary (matches the anime), English dub localization. Anime voice actors when available.
