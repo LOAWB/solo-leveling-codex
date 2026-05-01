@@ -2,7 +2,9 @@
 
 The complete design contract for a Solo Leveling-themed mobile gacha RPG. Built across one continuous design session by Sr (Claude on Justin's Mac) for Jared. Hands off to Pory and Jr to implement.
 
-**FOR JR AND PORY:** read [13-handoff-to-jr-and-pory.md](13-handoff-to-jr-and-pory.md) FIRST. It is the entry point and tells you the audit sequence Jared expects before any build begins.
+**FOR THE SHADOWS (3-lane bridge clone terminal runtime):** read [16-build-scope-package.md](16-build-scope-package.md) FIRST. It is the single-artifact handoff with 85 atomic work domains for autonomous lane division.
+
+**FOR THE ORIGINAL JR + PORY 2-AGENT PARADIGM:** read [13-handoff-to-jr-and-pory.md](13-handoff-to-jr-and-pory.md) FIRST. Audit guidance still applies inside whichever lane claims design synthesis review.
 
 ## 30-second orientation
 
@@ -48,6 +50,7 @@ The complete design contract for a Solo Leveling-themed mobile gacha RPG. Built 
 - **13-handoff-to-jr-and-pory.md** - HANDOFF DOC, the entry point for Jr and Pory inheriting this codex
 - **14-demon-castle-and-extended-bestiary.md** - 100-floor Demon Castle full design with 5 distinct biomes, mini-bosses, side quests, Endless mode, 19+ new monsters
 - **15-memoria-freeze-design-lessons.md** - structural patterns from MF synthesized into recipes for our game
+- **16-build-scope-package.md** - SINGLE-ARTIFACT HANDOFF for the shadow bridge clone terminal runtime. 85 atomic work domains, three suggested lane splits, acceptance criteria per milestone, bridge protocol with receipt logging. Supersedes doc 13 for the 3-lane runtime.
 
 ### Character files (47+ entries)
 
